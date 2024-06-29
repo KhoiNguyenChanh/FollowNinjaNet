@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FollowNinjaNet",
+    "slug": "FollowNinjaNet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FollowNinjaNet"
+}
